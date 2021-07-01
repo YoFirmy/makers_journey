@@ -45,12 +45,13 @@ The commit history of my [repo](https://github.com/JEC1100/boris_bikes_2) will s
 
 ### Thursday 1st July
 * Goal(s):
-Gain a better understanding of TDD process and using rspec. Familiarise myself with OO principles.
+Gain a better understanding of TDD process and using rspec.
 * Plan:
-Attend TDD workshop and continue practicing TDD and rspec during pair programming. During solo learning research 00 principles.
+Attend TDD workshop and continue practicing TDD and rspec during pair programming. 
 * Evidence:
-I will ask my pair to give feedback on how effectively I'm using TDD. I will give a basic explantion on what 00 principles are.
+I will ask my pair to give feedback on how effectively I'm using TDD.
 * Reflection:
+Unfortunately I was able to pair programme today as my pair was unable to attend, my evidence will instead be the [github repo commits of boris_bikes](https://github.com/YoFirmy/Boris_bikes) which I have been working on in solo learning instead of pairing.
 
 ## Weekly Evidence
 
