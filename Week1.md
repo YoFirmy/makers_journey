@@ -35,12 +35,22 @@ Attend debugging workshop and put process into practice. Attend pair programming
 My evidence is the debugging workshop that I managed to complete. Going through the process as shown in the workshop and then completing the other exercises in my own time. In relection I already understand the process (tighten the loop, get visibility, try to fix), but putting it into practice is what will help it stick. 
 
 ### Wednesday 30th June
-* Goal:
-Become more familiar with the TDD process and useful rspec methods
+* Goal(s):
+Become more familiar with the TDD process and useful rspec matchers.
 * Plan:
-Spend first part of solo learning going through the resources on rspec found in the boris bike challenges. Practice TDD in pair programming session and use TDD process while trying out rspec methods.
+Spend first part of solo learning going through the resources on rspec found in the boris bike challenges. (specifically [rspec's basics](https://semaphoreci.com/community/tutorials/getting-started-with-rspec), [rspec's new syntax](https://rspec.info/blog/2012/06/rspecs-new-expectation-syntax/), [one-liner syntax](https://relishapp.com/rspec/rspec-core/v/3-2/docs/subject/one-liner-syntax)) Practice TDD in pair programming session and use TDD process while trying out rspec methods.
 * Evidence:
+The commit history of my [repo](https://github.com/JEC1100/boris_bikes_2) will show that I’ve used the TDD process to write the code in it.
+* Reflection: I ended up going over a lot of the steps I did on tuesday as my pair was a little behind where I had got to with the pair the previous day. This actually helped as it reiterated over points that didn't really sink in the day before.
 
+### Thursday 1st July
+* Goal(s):
+Gain a better understanding of TDD process and using rspec. Familiarise myself with OO principles.
+* Plan:
+Attend TDD workshop and continue practicing TDD and rspec during pair programming. During solo learning research 00 principles.
+* Evidence:
+I will ask my pair to give feedback on how effectively I'm using TDD. I will give a basic explantion on what 00 principles are.
+* Reflection:
 
 ## Weekly Evidence
 
