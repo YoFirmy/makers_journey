@@ -53,6 +53,15 @@ I will ask my pair to give feedback on how effectively I'm using TDD.
 * Reflection:
 Unfortunately I was able to pair programme today as my pair was unable to attend, my evidence will instead be the [github repo commits of boris_bikes](https://github.com/YoFirmy/Boris_bikes) which I have been working on in solo learning instead of pairing.
 
+### Friday 2nd July
+* Goal(s):
+Gain more confidence with implementing TDD, and over the 'doubles' concept
+* Plan:
+Work on boris_bikes in my own time as a mean to practice using TDD, reach at least chapter 18 which goes over Doubles
+* Evidence:
+I will ask my pair to give feedback on how effectively I'm using TDD.
+* Reflection:
+
 ## Weekly Evidence
 
 ## Weekly Reflection 
