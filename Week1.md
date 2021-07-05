@@ -59,9 +59,12 @@ Gain more confidence with implementing TDD, and over the 'doubles' concept
 * Plan:
 Work on boris_bikes in my own time as a mean to practice using TDD, reach at least chapter 18 which goes over Doubles
 * Evidence:
-I will ask my pair to give feedback on how effectively I'm using TDD.
-* Reflection:
+I will ask my pair to give feedback on how effectively I'm using TDD. I will leave it [here](#placeholder)
+* Reflection: I am feeling much more confident in implementing TDD now, I have gone over the doubles concept and think I understand it, but definitely neeed to practice it more.
 
 ## Weekly Evidence
+My [weekly challenge github repo](https://github.com/YoFirmy/Boris_bikes)
+and my [weekend challenge github repo](https://github.com/YoFirmy/airport_challenge)
 
 ## Weekly Reflection 
+I started by looking through lots of resources before starting the weekly challenge and also saving the weekly challenge for the pair programming sessions. I realised that a lot of the concepts that I wanted to learn or practice were actually needed to do the weekly challenge and if I had focused on it from the beginning I would have gained the knowledge/skills that I was trying to develop quicker. The second half of the week I focussed much more on the weekly challenge and felt like I learnt much more.
