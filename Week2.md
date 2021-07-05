@@ -25,7 +25,7 @@ Practice skills learnt last week with a focus on Domain modelling
 * Plan:
 Get a headstart on the weekly challenge and try to implement Domain modelling within it
 * Evidence
-I will write down the domain models I create [here](#placeholder) 
+I will write down the domain models I create [here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md) 
 * Reflection:
 
 ## Weekly Evidence

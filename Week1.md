@@ -59,7 +59,7 @@ Gain more confidence with implementing TDD, and over the 'doubles' concept
 * Plan:
 Work on boris_bikes in my own time as a mean to practice using TDD, reach at least chapter 18 which goes over Doubles
 * Evidence:
-I will ask my pair to give feedback on how effectively I'm using TDD. I will leave it [here](#placeholder)
+I will ask my pair to give feedback on how effectively I'm using TDD. I will leave it [here](https://github.com/YoFirmy/makers_journey/blob/main/Week1Evidence.md)
 * Reflection: I am feeling much more confident in implementing TDD now, I have gone over the doubles concept and think I understand it, but definitely neeed to practice it more.
 
 ## Weekly Evidence
