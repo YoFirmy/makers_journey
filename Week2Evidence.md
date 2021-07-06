@@ -4,6 +4,5 @@ While making a start on the weekly challenge [Oystercard](https://github.com/YoF
 | Object      | Message  |
 |-------------|----------|
 | Customer    |          |
-|-------------|----------|
 | Oystercard  | Balance  |
 |             | Top up   |
