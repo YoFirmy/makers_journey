@@ -29,13 +29,23 @@ I will write down the domain models I create [here](https://github.com/YoFirmy/m
 * Reflection:
 I was able to practice TDD very well but I still don't feel very sure about domain modelling, I feel I simply need more practice.
 
-### Monday 28th June
+### Tuesday 27th June
 * Goal(s):
 Continue practicing skills learnt last week with a focus on Domain modelling
 * Plan:
 Attend the domain modelling workshop and continue trying to implement Domain modelling within the Oystercard weekly challenge.
 * Evidence
-I will write down the domain models I create [here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md) 
+I will write down the domain models I create [here](https://wireframe.cc/KfI2Xp) and [here](https://wireframe.cc/9zLpqn)
+* Reflection:
+The domain modelling workshop helped alot, it introduced me to using class diagrams which I very a very useful resource, and makes logical sense. I have become a bit confused with the TDD process however from working through the Oystercard challenge. I feel that after creating a domain model from the user stories, the way I am trying to apply TDD means that I work in a different way to how the challenges layout the challenges based on the user stories. I have arranged to speak with my tutor tomorrow to figure out where I'm going wrong.
+
+### Tuesday 27th June
+* Goal(s):
+Continue practicing skills learnt last week with a focus on TDD
+* Plan:
+I plan to meet with one of the course tutors to make sure my TDD process is correct. Also practice the TDD process on the weekly challenge.
+* Evidence
+I will ask my tutor and pair partners to give feedback on my TDD process. Which will be documented [Here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md)
 * Reflection:
 
 
