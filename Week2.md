@@ -27,6 +27,17 @@ Get a headstart on the weekly challenge and try to implement Domain modelling wi
 * Evidence
 I will write down the domain models I create [here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md) 
 * Reflection:
+I was able to practice TDD very well but I still don't feel very sure about domain modelling, I feel I simply need more practice.
+
+### Monday 28th June
+* Goal(s):
+Continue practicing skills learnt last week with a focus on Domain modelling
+* Plan:
+Attend the domain modelling workshop and continue trying to implement Domain modelling within the Oystercard weekly challenge.
+* Evidence
+I will write down the domain models I create [here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md) 
+* Reflection:
+
 
 ## Weekly Evidence
 
