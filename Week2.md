@@ -20,31 +20,31 @@
 
 ## Daily Goals
 ### Monday 5th July
-* Goal(s):
+* Goal(s): 
 Practice skills learnt last week with a focus on Domain modelling
-* Plan:
+* Plan: 
 Get a headstart on the weekly challenge and try to implement Domain modelling within it
-* Evidence
+* Evidence: 
 I will write down the domain models I create [here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md) 
-* Reflection:
+* Reflection: 
 I was able to practice TDD very well but I still don't feel very sure about domain modelling, I feel I simply need more practice.
 
 ### Tuesday 6th July
-* Goal(s):
+* Goal(s): 
 Continue practicing skills learnt last week with a focus on Domain modelling
-* Plan:
+* Plan: 
 Attend the domain modelling workshop and continue trying to implement Domain modelling within the Oystercard weekly challenge.
-* Evidence
+* Evidence: 
 I will write down the domain models I create [here](https://wireframe.cc/KfI2Xp) and [here](https://wireframe.cc/9zLpqn)
-* Reflection:
+* Reflection: 
 The domain modelling workshop helped alot, it introduced me to using class diagrams which I very a very useful resource, and makes logical sense. I have become a bit confused with the TDD process however from working through the Oystercard challenge. I feel that after creating a domain model from the user stories, the way I am trying to apply TDD means that I work in a different way to how the challenges layout the challenges based on the user stories. I have arranged to speak with my tutor tomorrow to figure out where I'm going wrong.
 
 ### Wednesday 7th July
-* Goal(s):
+* Goal(s): 
 Continue practicing skills learnt last week with a focus on TDD
-* Plan:
+* Plan: 
 I plan to meet with one of the course tutors to make sure my TDD process is correct. Also practice the TDD process on the weekly challenge.
-* Evidence
+* Evidence: 
 I will ask my tutor and pair partners to give feedback on my TDD process. Which will be documented [Here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md)
 * Reflection: I think I implemented TDD very well and I am starting to become much more confident in my process. From the feedback given to me from my pair I have realised that the only thing I need to work on in the TDD process is refactoring. I tend to do refactor after the fact and in solo time so that as a pair we can keep working forward with the challenges but I have realised this is a bad habit to get into.
 
@@ -53,9 +53,20 @@ I will ask my tutor and pair partners to give feedback on my TDD process. Which 
 Continue practicing skills learnt last week with a focus on incorporating refactoring in my TDD process.
 * Plan:
 Keep practicing the TDD process while working on the weekly challenge. Ask my pair to point out when I'm skipping the refactoring step.
-* Evidence
+* Evidence: 
 I will ask my pair partners to give feedback on my TDD process and if I'm using refactoring or not. Which will be documented [Here](https://github.com/YoFirmy/makers_journey/blob/main/Week2Evidence.md)
 * Reflection: 
+I think I implemented refactoring pretty well on any chance I got. I am feeling more confident with the entire TDD process and at this point feel I simply need to practice what I already know to make the process feel more natural.
+
+### Friday 9th July
+* Goal(s):
+Be able to implement TDD in the process of spliting a class into two
+* Plan:
+Work through chapter 15 of oystercard challenge and keep to the TDD process.
+* Evidence
+Evidence for this will be the commits of the [github repo](https://github.com/YoFirmy/Oystercard)
+* Reflection: 
+
 
 
 ## Weekly Evidence
